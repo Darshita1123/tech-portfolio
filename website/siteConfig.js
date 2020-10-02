@@ -68,7 +68,6 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'darshita-shah-142a1748',
-        twitter: '',
         github: 'Darshita1123',
     },
 
